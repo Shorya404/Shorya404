@@ -1,30 +1,37 @@
-# 👋 Hi, I'm Shorya Sharma!
+# 👋 Hey, I'm Shorya Sharma!
 
-### 💻 First Year B.Tech ECE Student | Developer | Tech Enthusiast
+### B.Tech ECE Student | Programmer | Curious Builder
 
-I'm a first-year B.Tech Electronics & Communication Engineering student who loves exploring technology, learning new skills, and turning ideas into working projects.
+I'm a first-year **B.Tech Electronics & Communication Engineering** student interested in programming, problem-solving, and exploring how technology can be used to build useful things.
 
-🔭 Currently developing my **C programming** skills and working on strengthening my fundamentals.  
-🌱 Currently learning **Python** and exploring its applications in programming.  
-💡 I enjoy learning through **problem-solving, experimentation, and building projects**.  
-🧠 Currently focusing on improving my **logical thinking and programming skills**.  
-🚀 Always looking for opportunities to learn, build something meaningful, and grow as a developer.  
-💬 Open to collaborating on **interesting and innovative projects**.
+I’m currently focused on strengthening my programming fundamentals while exploring different areas of software development.
 
 ---
 
-## 💻 Tech Stack
+## 🧑‍💻 A Little About Me
 
-### Languages
+- 💻 Currently working on my **C programming** skills
+- 🐍 Learning **Python** and exploring its applications
+- 🗄️ Working with **MySQL** and learning more about databases
+- 🧠 Improving my **logic, problem-solving, and coding skills**
+- 📚 Exploring **Data Structures & Algorithms**
+- 🔧 Interested in experimenting with projects and learning by building
+- 🚀 Slowly turning ideas into code, one project at a time
+
+---
+
+## 🛠️ Technologies I'm Exploring
+
+### Programming Languages
 
 ![C](https://img.shields.io/badge/C-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-%233776AB.svg?style=for-the-badge&logo=python&logoColor=white)
 
-### Currently Learning
+### Database
 
-![Python](https://img.shields.io/badge/Python-%233776AB.svg?style=for-the-badge&logo=python&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-%234479A1.svg?style=for-the-badge&logo=mysql&logoColor=white)
 
-### Tools & Platforms
+### Development Tools
 
 ![Git](https://img.shields.io/badge/Git-%23F05032.svg?style=for-the-badge&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/GitHub-%23181717.svg?style=for-the-badge&logo=github&logoColor=white)
@@ -32,15 +39,24 @@ I'm a first-year B.Tech Electronics & Communication Engineering student who love
 
 ---
 
-## 🚀 What I'm Working On
+## 🎯 What I Want to Build
 
-- Strengthening my **C programming** skills
-- Learning **Python** and improving my programming fundamentals
-- Practicing **problem-solving and logical thinking**
-- Exploring **Data Structures & Algorithms**
-- Building small projects to apply what I learn
-- Exploring different areas of **ECE and software development**
+I want to move beyond simply learning syntax and start using what I learn to create projects that solve actual problems.
+
+For now, I'm focused on:
+
+- Building a strong programming foundation
+- Writing cleaner and more efficient code
+- Understanding how different technologies work together
+- Creating projects that challenge me to learn something new
 
 ---
 
-### I hope I look into this again in the future and realize how much I've grown.
+## 📌 Currently
+
+```text
+Learning     → Python
+Practicing   → C
+Exploring    → MySQL & DSA
+Building     → Projects
+Growing      → Every day
